@@ -111,7 +111,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 * If you decide to add more features or make changes to the project, feel free to update this README accordingly!
 * Make sure to update the **"Contributors"** section if others contribute to the project.
+### **Project preview**
+the project looks like this
+<img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/5bdd362c-7031-48f1-ba22-23dc16c5d54b" />
 
----
-
-This **README** provides an overview of the project, installation instructions, usage guidelines, and deployment details. You can customize or add more details as needed. Let me know if you need further assistance!
