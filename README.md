@@ -1,7 +1,3 @@
-Sure! Below is a template for a **README** file for your **"Practical Assignment 1 – USIU First-Year Companion (v1)"** project. You can copy and paste it into your `README.md` file in your project’s root directory.
-
----
-
 # USIU First-Year Companion (v1)
 
 This is the first version of the **USIU First-Year Companion**, created as part of a practical assignment. It is a lightweight, static microsite designed to help new students during their orientation week at **USIU** (United States International University Africa). The project includes a simple campus cost/commute estimator, personalized greeting, and a theme toggle feature (day/night mode).
