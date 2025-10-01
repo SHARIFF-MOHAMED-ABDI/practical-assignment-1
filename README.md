@@ -111,3 +111,12 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 the project looks like this
 <img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/5bdd362c-7031-48f1-ba22-23dc16c5d54b" />
 
+
+### *Wireframe**
+
+#### Home page wireframe
+
+![Home Page wirefram](./desgin/home_page_wireframe.png)
+
+
+
