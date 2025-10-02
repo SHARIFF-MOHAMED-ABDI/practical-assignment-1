@@ -99,7 +99,7 @@ To deploy the project to your own GitHub Pages, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is  not licensed under the MIT License 
 
 ---
 
@@ -108,15 +108,43 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 * If you decide to add more features or make changes to the project, feel free to update this README accordingly!
 * Make sure to update the **"Contributors"** section if others contribute to the project.
 ### **Project preview**
+Project Preview
+
+Below is a preview of the project, showcasing the clean and user-friendly interface of the USIU First-Year Companion microsite:
 the project looks like this
-<img width="951" height="538" alt="image" src="https://github.com/user-attachments/assets/5bdd362c-7031-48f1-ba22-23dc16c5d54b" />
+![Home Page figma](./desgin/home_page_wireframe.png)" />
+![Home Page figma](./desgin/home_page_1.png)" />
+![Home Page figma](./desgin/home_page_4.png)" /> />
+![Home Page figma](./desgin/home_page_3.png)" />" />
+![Home Page figma](./desgin/home_page_2.png)" />" />
 
 
-### *Wireframe**
+## figma
 
-#### Home page wireframe
+### Home page figma ##
+The Figma design serves as the blueprint for the user interface of the USIU First-Year Companion microsite. The design showcases the planned layout, structure, and overall user experience (UX) of the site, helping visualize how the project will look and feel.
 
-![Home Page wirefram](./desgin/home_page_wireframe.png)
+Home Page Figma Design: This represents the main landing page of the microsite, where users are greeted with a personalized message and are provided with access to the campus cost/commute estimator and theme toggle features. The Figma design ensures that the interface is clean, intuitive, and easy to navigate for first-year students.
+
+### Key Elements in the Figma Design ###
+
+Header: Displays the title and a welcoming message to the user.
+
+Personalized Greeting Section: Where users enter their name for a customized experience.
+
+Cost Estimator Section: Clearly laid out with input fields for users to calculate their weekly transport and snack costs.
+
+Theme Toggle Button: Positioned for easy access, allowing users to switch between day and night modes for better readability.
+
+Design Wireframes: These wireframes represent the structural layout before the final design elements were applied. They showcase how the page is organized and how users will interact with the content, providing clarity on the site’s functionality.
+
+Home Page Wireframe: A blueprint for the home page's main elements.
+
+Estimator Page Wireframe: This details the input fields and result sections for the campus cost/commute estimator tool.
+
+In summary, the Figma design is an essential reference for understanding the user interface, design flow, and functionality of the microsite, ensuring that both functionality and aesthetics are well-aligned with the needs of the first-year students at USIU.
+Here’s a preview of the Figma design for the Home Page, providing insight into the layout and structure behind this project.
+![Home Page figma](./desgin/home_page_figma.png)
 
 
 
